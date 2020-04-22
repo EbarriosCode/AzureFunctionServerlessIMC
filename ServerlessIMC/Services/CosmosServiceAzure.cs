@@ -12,9 +12,9 @@ namespace ServerlessIMC.Services
     public class CosmosServiceAzure
     {
         // The Azure Cosmos DB endpoint for running this sample.
-        private static readonly string EndpointUri = "https://devfunctions.documents.azure.com:443/";
+        private static readonly string EndpointUri = "<endpoint>";
         // The primary key for the Azure Cosmos account.
-        private static readonly string PrimaryKey = "zxLwtOnkmdbgn7yo548LMtatP9lehnLTkQAklvKrS96nNsJxrVOHeZ7mL8DUMqhAQcwj1Wks1VZdptSRuevYkQ==";
+        private static readonly string PrimaryKey = "<primarykey>";
 
         // The Cosmos client instance
         private CosmosClient cosmosClient;
