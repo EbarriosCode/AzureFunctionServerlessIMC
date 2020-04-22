@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessIMC", "ServerlessIMC\ServerlessIMC.csproj", "{DF50AD8B-160B-4010-96CF-8E072895481E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF50AD8B-160B-4010-96CF-8E072895481E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF50AD8B-160B-4010-96CF-8E072895481E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF50AD8B-160B-4010-96CF-8E072895481E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF50AD8B-160B-4010-96CF-8E072895481E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C5AF891-D17B-4CF8-84A0-87BD0D603C11}
+	EndGlobalSection
+EndGlobal
